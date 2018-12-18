@@ -28,5 +28,5 @@ Presented on 10 May 2018
 |5 | Applications of Big Data techniques in particle physics | Julia May, Viviana Sandagorda Guaman, Daniel Pascual Sentíes, Manuel Hernández Nájera-Alesón | [GitHub](https://github.com/vivianasandagordaguaman/applicationsbigdatatechniquesinparticlephysics), [Website](https://vivianasandagordaguaman.github.io/applicationsbigdatatechniquesinparticlephysics/Webpage/) |
 |6 | TITLE | AUTHORS | [GitHub], [Website] |
 |7 | Kickstarter Analytics | Joaquín Barrio Lottmann, Alejandro Mendoza Silva, Pablo Miranda Torres, Pablo de Torre Barrio | [GitHub](https://github.com/PabloDeTorre/StartupsAnatlytics), [Website](https://pablo-mirtor.github.io/Kickstarter-Analytics/) |
-|8 | TITLE | AUTHORS | [GitHub], [Website]|
+|8 | Estudio del mercado de criptomonedas | Esteban Rueda Martinez, Yevheniy Kushch, Alejandro López-Tello Mora | [GitHub](https://github.com/yevheniyku/Cryptocurrency-Data-Analizer), [Website]|
 |9 | TITLE | AUTHORS | [GitHub], [Website]|
