@@ -26,7 +26,7 @@ Presented on 10 May 2018
 |3 | TITLE | AUTHORS | [GitHub], [Website]|
 |4 | Shall I Buy? | Alberto Casado Trapote, Diego Martínez Simarro, Gonzalo Sanz Lastra, Héctor Marcos Rabadán | [GitHub](https://github.com/dimart10/ShallIBuy), [Website](https://dimart10.github.io/ShallIBuy/)|
 |5 | Applications of Big Data techniques in particle physics | Julia May, Viviana Sandagorda Guaman, Daniel Pascual Sentíes, Manuel Hernández Nájera-Alesón | [GitHub](https://github.com/vivianasandagordaguaman/applicationsbigdatatechniquesinparticlephysics), [Website](https://vivianasandagordaguaman.github.io/applicationsbigdatatechniquesinparticlephysics/Webpage/) |
-|6 | TITLE | AUTHORS | [GitHub], [Website]|
-|7 | TITLE | AUTHORS | [GitHub], [Website]|
+|6 | TITLE | AUTHORS | [GitHub], [Website] |
+|7 | Kickstarter Analytics | Joaquín Barrio Lottmann, Alejandro Mendoza Silva, Pablo Miranda Torres, Pablo de Torre Barrio | [GitHub](https://github.com/PabloDeTorre/StartupsAnatlytics), [Website](https://pablo-mirtor.github.io/Kickstarter-Analytics/) |
 |8 | TITLE | AUTHORS | [GitHub], [Website]|
 |9 | TITLE | AUTHORS | [GitHub], [Website]|
